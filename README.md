@@ -6,9 +6,14 @@
 
 
 \\ cmd
-``python -m venv guide-python``
+
+```
+python -m venv guide-python
+```
 
 After having created the virtual environment we will work with. we activate and install the dependencies to use our jupyter notebook
 
-``guide-python/script/activate.bat``
-``pip install -r requirements.txt``
+```
+guide-python/script/activate.bat
+pip install -r requirements.txt
+```
